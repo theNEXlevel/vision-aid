@@ -1,0 +1,9 @@
+{
+  "name": "vision-aid-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/vision-aid-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["vision-aid"],
+  "// targets": "to see all targets run: nx show project vision-aid-e2e --web",
+  "targets": {}
+}
